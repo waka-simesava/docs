@@ -1,3 +1,5 @@
+# 「cd to...」によるターミナル起動＆移動
+
 ## 「[cd to...](https://github.com/jbtule/cdto) 」とは
 
 「[cd to...](https://github.com/jbtule/cdto) 」は Mac の Finder のツールバーに配置しておくことで、ターミナル起動＆移動がワンクリックで可能になる便利なアプリです。
@@ -24,7 +26,7 @@ iterm・terminal・unsigned・x11_xterm の中から起動したいコマンド�
 ## 「cd to...」のアイコンを変える（任意）
 
 上記の手順でアプリ自体は十分使えるが、個人的にアイコンが気に入らなかったので、自作した。  
-[こちらのPSD](./files/cdto/cd_to.psd.zip?raw=true) ファイルを使って好きなアイコンを作って書き出す。
+[こちらのPSD](./files/cd-to/cd_to.psd.zip?raw=true) ファイルを使って好きなアイコンを作って書き出す。
 
 [アセットを抽出] すると、
 1. `cd_to-assets` フォルダ（さらにその中に `ico1.iconset` フォルダ）が生成される
